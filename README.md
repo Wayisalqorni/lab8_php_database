@@ -57,7 +57,7 @@ Buat file baru dengan nama koneksi.php
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db = "bioskop";
+$db = "latihan1";
 $conn = mysqli_connect($host,$user,$pass,$db);
 if ($conn == false)
 {
